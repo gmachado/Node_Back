@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\database",
+    "\\database\\migrations"
+  ],
+  "SelectedNode": "\\database\\migrations\\2020_03_14_142635_create_websockets_statistics_entries_table.php",
+  "PreviewInSolutionExplorer": false
+}
